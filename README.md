@@ -45,9 +45,9 @@ Feel free to explore, star ⭐, or fork!
 
 ### 📫 Let's Connect
 
-- **Email**: [22146064@student.hcmute.edu.vn](mailto:22146064@student.hcmute.edu.vn)  
-- **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile/) ← **Replace with your real link!**  
-- **GitHub**: [@yourusername](https://github.com/yourusername)  
+- **Email**: [vietvo1311@gmail.com](mailto:vietvo1311@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/your-profile]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/v%C3%B5-vi%E1%BB%87t-62934431b/)) ← **Replace with your real link!**  
+
 
 I'm always open to collaboration, internship opportunities, or just geeking out about robotics & embedded AI! 🚀
 
