@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Aspiring Embedded & AI Robotics Engineer<br>I'm a Mechatronics Engineering student at Ho Chi Minh City University of Technology and Education (HCMUTE). Passionate about blending hardware and artificial intelligence, I focus on building intelligent, optimized robotic systems.<br><br>Currently diving deep into embedded firmware and modern control algorithms for autonomous robots.<p align="center">
+🚀 Aspiring Embedded & AI Robotics Engineer<br>I'm a Mechatronics Engineering student at Ho Chi Minh City University of Technology and Engineering (HCMUTE). Passionate about blending hardware and artificial intelligence, I focus on building intelligent, optimized robotic systems.<br><br>Currently diving deep into embedded firmware and modern control algorithms for autonomous robots.<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Embedded+Systems+Engineer;AI+%26+Robotics+Enthusiast;Mechatronics+Student+%40+HCMUTE" alt="Typing SVG" />
 </p>
 
